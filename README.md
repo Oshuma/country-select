@@ -6,6 +6,10 @@ Users are strongly advised to evaluate the suitability of this list given their 
 
 ## Latest Changes
 
+**1.1.2**
+
+- Changed "Taiwan, Province of China" to "Taiwan".
+
 **1.1.1**
 
 - Fixed incompatibility with Rails 3.2.2 (thanks to [jmazzi](https://github.com/jamesds/country-select/pull/4))
